@@ -1,6 +1,6 @@
 # action.yml
-name: 'VUnit Action'
-description: 'Automatically test your vhdl code with VUnit'
+name: 'VUnit Action (Moved)'
+description: 'Automatically test your vhdl code with VUnit. Moved here: https://github.com/VUnit/vunit_action/'
 inputs:
   run_file:
     description: 'python vunit run file'
